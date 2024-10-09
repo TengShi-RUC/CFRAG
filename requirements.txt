@@ -1,0 +1,12 @@
+evaluate==0.4.2
+jieba==0.42.1
+nltk==3.8.1
+numpy==1.24.3
+pandas==2.2.3
+rank_bm25==0.2.2
+rouge_chinese==1.0.3
+scikit_learn==1.5.2
+torch==2.3.0
+tqdm==4.66.4
+transformers==4.42.3
+vllm==0.5.1
